@@ -1,6 +1,6 @@
 #Write your code here!
 def using_max(my_array)
-  puts my_array.max
+  my_array.max
 end
 
 def find_nth_element(my_array)
