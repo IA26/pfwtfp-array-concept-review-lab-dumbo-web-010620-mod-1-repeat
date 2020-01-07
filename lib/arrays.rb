@@ -4,7 +4,7 @@ def using_max(my_array)
 end
 
 def find_nth_element(my_array)
-  my_array_two.flatten.include?("Nemo")
+  my_array.flatten.include?("Nemo")
 end
 
 def flatten_nested_arrays(my_array)
